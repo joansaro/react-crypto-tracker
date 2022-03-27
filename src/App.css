@@ -5,8 +5,9 @@
   margin: 0;
   padding: 0;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-color: #00002e;
   color: #ffffff;
+  background-color: #00002e;
+
 }
 
 .coin-app{
@@ -14,7 +15,7 @@
   flex-direction: column;
   align-items: center;
   margin-top: 64px;
-  color: #ffffff;
+  background-color: #00002e;
 }
 
 .coin-search{
